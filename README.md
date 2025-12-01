@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Keerthi-Coder017/Keerthi-Coder017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Keerthika! 👋
+​I am a Computer Science Engineering student at Velammal Institute of Technology, passionate about Artificial Intelligence and Software Engineering. My goal is to build impactful technology and lead a tech giant.
+​🔭 I’m currently mastering C++ and Data Structures.
+​🌱 I’m learning how to build scalable software.
+​🎯 Future Goal: AI Engineer @ Apple / Google / Microsoft / Amazon.
+​💬 Ask me about: My journey to becoming a CEO.
+​⚡ Fun fact: I am building my own path to success!
+​🛠 Languages and Tools
+( I'll add icons here later! ) 
+​C++
+​Python (Coming soon) 
+​Git & GitHub
