@@ -6,9 +6,6 @@ Hi there, I'm Keerthika! 👋
 ​💬 Ask me about: My journey to becoming a CEO.
 ​⚡ Fun fact: I am building my own path to success!.
 ​🛠 Languages and Tools :
-
 ​C++
-
 ​Python (Coming soon) 
-
 ​Git & GitHub
