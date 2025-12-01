@@ -4,8 +4,11 @@ Hi there, I'm Keerthika! 👋
 ​🌱 I’m learning how to build scalable software.
 ​🎯 Future Goal: AI Engineer @ Apple / Google / Microsoft / Amazon.
 ​💬 Ask me about: My journey to becoming a CEO.
-​⚡ Fun fact: I am building my own path to success!
-​🛠 Languages and Tools 
+​⚡ Fun fact: I am building my own path to success!.
+​🛠 Languages and Tools :
+
 ​C++
+
 ​Python (Coming soon) 
+
 ​Git & GitHub
