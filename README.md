@@ -5,8 +5,7 @@ Hi there, I'm Keerthika! 👋
 ​🎯 Future Goal: AI Engineer @ Apple / Google / Microsoft / Amazon.
 ​💬 Ask me about: My journey to becoming a CEO.
 ​⚡ Fun fact: I am building my own path to success!
-​🛠 Languages and Tools
-( I'll add icons here later! ) 
+​🛠 Languages and Tools 
 ​C++
 ​Python (Coming soon) 
 ​Git & GitHub
